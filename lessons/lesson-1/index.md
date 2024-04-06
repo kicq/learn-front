@@ -4,9 +4,8 @@
 
 - attribute (name/value)
 - tag scheme
-- head (how connect css)
+- tag head (how connect css)
 - frontend/backend (client/server)
-
 
 ### Lesson
 
@@ -17,7 +16,6 @@
 - [positions](#позиционирование-свойства-position)
 
 # Основная информация о путях и файлах (Path/Files Explorer)
-<a id="установка"></a>
 
 ![scheme](./fileStruct.png)
 
@@ -72,7 +70,7 @@
 <br>
 
 # Блочная модель
-![box-model](/box-model.png)
+![box-model](./box-model.png)
 # Краткое описание модели блоков (Block Model)
 
 Модель блоков (Block Model) в CSS определяет, как элементы блочного типа занимают пространство на странице. Основные компоненты модели блоков включают:
@@ -124,7 +122,7 @@
 # Селекторы, Классы, ID
 
 ## Селекторы
-![Схема](/selectors.png)
+![Схема](./selectors.png)
 
 Селекторы CSS используются для выбора элементов, к которым будут применены стили. Существует несколько типов селекторов:
 
