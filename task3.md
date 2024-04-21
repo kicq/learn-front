@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=G4f9OH4IQE8
 
 **Сверстать две карточки используя flexbox**
 
-[figma](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUdeizp4VfC9gmmyn4TZAHD%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DLSfoUtRDc1LtNhIo-1)
+[figma](https://www.figma.com/file/Udeizp4VfC9gmmyn4TZAHD/Cards?type=design&node-id=0%3A1&mode=design&t=dykxnJvEcAlgW9Ur-1)
