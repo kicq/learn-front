@@ -38,3 +38,5 @@ true || false; // true
 false || true; // true
 false || false; // false
 ```
+Задачи по теме:
+ - [Задание по приоритету операций](./tasks/priority_operations.md)
